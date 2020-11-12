@@ -1,0 +1,40 @@
+
+
+   ---- Transcoding 'C:\Users\Ghost\Desktop\project\pcb\version2\gerber_aptinex\to pcb\mask\version3.GBS' ----   Thu Jan 10 22:14:10 2019
+
+D11   --> D104
+D12   --> D105
+D13   --> D106
+D14   --> D107
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Ghost\Desktop\project\pcb\version2\gerber_aptinex\to pcb\mask\version3.GTS' ----   Thu Jan 10 22:14:10 2019
+
+D11   --> D108
+D12   --> D109
+D13   --> D110
+D14   --> D111
+D15   --> D112
+D16   --> D113
+D17   --> D114
+D18   --> D115
+D19   --> D116
+D20   --> D117
+D21   --> D118
+D22   --> D119
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Ghost\Desktop\project\pcb\version2\gerber_aptinex\to pcb\mask\version3.GBS' ----   Fri Jan 11 21:36:22 2019
+
+D13   --> D100
+D14   --> D101
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Ghost\Desktop\project\pcb\version2\gerber_aptinex\to pcb\mask\version3.GBS' ----   Fri Jan 11 21:36:32 2019
+
+D13   --> D102
+D14   --> D103
+-----------------------------------------------------------------

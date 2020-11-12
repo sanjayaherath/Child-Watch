@@ -1,0 +1,66 @@
+
+
+   ---- Transcoding 'C:\Users\Ghost\Desktop\project\pcb\version2\gerber_aptinex\version3.GBL' ----   Thu Jan 10 21:57:25 2019
+
+D13   --> D100
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Ghost\Desktop\project\pcb\version2\gerber_aptinex\version3.GBS' ----   Thu Jan 10 21:57:25 2019
+
+D11   --> D101
+D12   --> D102
+D13   --> D103
+D14   --> D104
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Ghost\Desktop\project\pcb\version2\gerber_aptinex\version3.GTL' ----   Thu Jan 10 22:00:45 2019
+
+D12   --> D105
+D13   --> D106
+D14   --> D107
+D15   --> D108
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Ghost\Desktop\project\pcb\version2\gerber_aptinex\version3.GTO' ----   Thu Jan 10 22:01:16 2019
+
+D11   --> D109
+D12   --> D110
+D13   --> D111
+D14   --> D112
+D15   --> D113
+D16   --> D114
+D17   --> D115
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Ghost\Desktop\project\pcb\version2\gerber_aptinex\version3.GTP' ----   Thu Jan 10 22:01:19 2019
+
+D11   --> D116
+D12   --> D117
+D13   --> D118
+D14   --> D119
+D15   --> D120
+D16   --> D121
+D17   --> D122
+D18   --> D123
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Ghost\Desktop\project\pcb\version2\gerber_aptinex\version3.GTS' ----   Thu Jan 10 22:01:19 2019
+
+D11   --> D124
+D12   --> D125
+D13   --> D126
+D14   --> D127
+D15   --> D128
+D16   --> D129
+D17   --> D130
+D18   --> D131
+D19   --> D132
+D20   --> D133
+D21   --> D134
+D22   --> D135
+-----------------------------------------------------------------
