@@ -10,6 +10,6 @@ This project was developed for EE356-Electronic Product Design and Manufacture P
 
 ## Project Overview ##
 
-The firmware was developed using arduino and PCB designs were drawn using Eagle CAD. The main components of hardware were arduino pro mini, OLED display, and sim800l.
+The firmware was developed using arduino and PCBs were designed using Eagle CAD. The main components of hardware were arduino pro mini, OLED display, and sim800l.
 The child watch includes features such as send and receive a specific number of messages, digital clock, stop watch and recieve notifications through vibrations.
 
